@@ -6,7 +6,7 @@ Home repo for FLL55250 Robotics team.
 |----|------|
 |Teng Derek|\*|
 |Teng Lara|\*|
-|Gao Yifei|\*|
+|Nightclaw/Ivy|\*|
 |Jiang Aiden|\*|
 |Wang Claire|\*|
 
